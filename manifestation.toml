@@ -1,7 +1,7 @@
 id = "TranFox.Backrooms"
 name = "Backrooms_Zone"
 description = "Adds a backrooms zone to the main map, you have a chance to warp there whenever you get respawned from being stuck."
-version = "1.0.0"
+version = "1.0.1"
 homepage = "https://github.com/Tran-Foxxo/BackroomsZone"
 author = "Tran Fox"
 

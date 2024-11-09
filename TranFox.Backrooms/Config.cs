@@ -1,7 +1,9 @@
 ﻿using System.Text.Json.Serialization;
 
-namespace GDWeave.Sample;
-
-public class Config {
-    //[JsonInclude] public bool SomeSetting = true;
+namespace TranFox.Backrooms
+{
+    public class Config
+    {
+        //[JsonInclude] public bool SomeSetting = true;
+    }
 }
