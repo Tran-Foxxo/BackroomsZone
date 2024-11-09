@@ -1,0 +1,17 @@
+id = "TranFox.Backrooms"
+name = "Backrooms Zone"
+description = "Adds a backrooms zone to the main map, you have a 1/10 chance to warp there whenever you get respawned from being stuck."
+version = "1.0.0"
+homepage = "https://github.com/Tran-Foxxo/TranFox.Backrooms"
+author = "Tran Fox"
+
+icon = "icon.png"
+readme = "README.md"
+
+# both are optional here, pick what you want
+[project]
+csharp = "./TranFox.Backrooms/TranFox.Backrooms.csproj"
+godot = "./project/project.godot"
+
+[[dependencies]]
+thunderstore_version = "NotNet-GDWeave-2.0.13"
